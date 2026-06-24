@@ -13,9 +13,5 @@ Seorang antusias teknologi dan bahasa yang suka mengeksplorasi kreativitas digit
 - **Bahasa:** Indonesia (Native), Jepang (Beginner/Intermediate), English
 - **Eksplorasi Lain:** Fotografi dan Videografi
 
-### 📈 Statistik GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhimasazman&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhimasazman&layout=compact&theme=radium)
-
 ### 📫 Mari Terhubung
 - **Email:** dhimasazman@gmail.com

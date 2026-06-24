@@ -19,6 +19,3 @@ Seorang antusias teknologi dan bahasa yang suka mengeksplorasi kreativitas digit
 
 ### 📫 Mari Terhubung
 - **Email:** dhimasazman@gmail.com
-
----
-*💡 "Konsistensi adalah kunci, baik saat menghafal kosakata baru, meracik prompt gambar yang sempurna, maupun menyelesaikan repetisi olahraga harian."*
